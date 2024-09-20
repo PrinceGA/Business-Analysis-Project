@@ -1,6 +1,6 @@
 # Business-Analysis-Project
 https://docs.google.com/spreadsheets/d/1O8XSHDluWkMelZKTjDxRsJ3AcqNLdI4vQLHdLiMmH_U/edit?usp=sharing
-Above is te project link
+ project link
 
 ## Project Overview
 This project aims to analyze user activity data from the company's website to understand conversion rates and user retention. The analysis focuses on creating a conversion funnel and conducting cohort analysis.
